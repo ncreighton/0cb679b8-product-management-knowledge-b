@@ -1,2 +1,28 @@
-# 0cb679b8-product-management-knowledge-b
-product management professionals waste hours on wrestling with incompatible WordPress plugins that fight each other. This fixes that.  Regular security updates. Works with WordPress multisite. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Product Management Knowledge Base And Help Center — fully
+# Product Management Knowledge Base and Help Center WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00wbJ1bHhcYIe001ZicZF3O)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00wbJ1bHhcYIe001ZicZF3O)
+
